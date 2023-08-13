@@ -1,12 +1,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-<div >
+<div style="width:50%; padding:15px">
         <a href="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0">
             <img src="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0" alt="Visit Count">
         </a>
         <h1>💫 About Me:</h1>
         <p>👋 Greetings! I'm Pradip Sable, a dedicated developer known for my tranquil demeanor and insatiable curiosity. My journey is centered around perpetual learning and relentless exploration within the realm of technology.</p>
     </div>
-    <div >
+    <div  style="width:50%; padding:5px">
         <img src="./assets/giphy.gif" width="1000" height="250" alt="Animated Example">
     </div>   
 </div>
@@ -27,9 +27,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipSable07&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" height="50%">
 </div>
 </br>
-<div style="display: flex; justify-content:center; align-items: center;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&" width="60%" >
-</div>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=1000&height=1000)
 
 ## 🏆 GitHub Trophies
 
@@ -41,6 +40,6 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=PradipSable07&limit=5&theme=nord&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=PradipSable07&limit=5&theme=nord&combine_all_yearly_contributions=true&hide_border=true&align_content=center)
 
 ---
