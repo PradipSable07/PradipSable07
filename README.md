@@ -1,12 +1,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-<div style="flex: 1; padding: 20px;">
+<div >
         <a href="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0">
             <img src="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0" alt="Visit Count">
         </a>
         <h1>💫 About Me:</h1>
         <p>👋 Greetings! I'm Pradip Sable, a dedicated developer known for my tranquil demeanor and insatiable curiosity. My journey is centered around perpetual learning and relentless exploration within the realm of technology.</p>
     </div>
-    <div style="flex: 1;">
+    <div >
         <img src="./assets/giphy.gif" width="1000" height="250" alt="Animated Example">
     </div>   
 </div>
@@ -27,11 +27,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipSable07&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" height="50%">
 </div>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&" width="100%">
+<div style="display: flex; justify-content:center; align-items: center;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&" width="60%" >
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PradipSable07&theme=nord&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
+![](https://github-profile-trophy.vercel.app/?username=PradipSable07&theme=nord&no-frame=true&no-bg=false&margin-w=4&margin-h=4&)
 
 ### ✍️ Random Dev Quote
 
