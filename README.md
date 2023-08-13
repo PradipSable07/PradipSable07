@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipSable07&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" height="50%">
 </div>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&" width="100%">
 
 ## 🏆 GitHub Trophies
 
