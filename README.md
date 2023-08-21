@@ -48,13 +48,20 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=750&height=750">
 </div>
+
+
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PradipSable07&theme=nord&no-frame=true&no-bg=false&margin-w=4&margin-h=4&)
+<div align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=PradipSable07&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=4">
+</div>
+
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+</div>
 
 ## 🤝 Let's Connect:
 
