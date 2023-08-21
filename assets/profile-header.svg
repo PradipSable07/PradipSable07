@@ -14,6 +14,7 @@ svg image {
 
 svg {
   width:100vw;
+  height:20vh;
   position:fixed;
   top:2px;
   transform: rotate(180deg);
