@@ -49,6 +49,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=750&height=750">
 </div>
 
+<<<<<<< HEAD
+=======
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=750&height=750">
+</div>
+
+>>>>>>> 26e361f (center items)
 
 ## 🏆 GitHub Trophies
 
@@ -58,20 +65,31 @@
 
 
 ### ✍️ Random Dev Quote
+<<<<<<< HEAD
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+=======
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+>>>>>>> 26e361f (center items)
 </div>
 
 ## 🤝 Let's Connect:
+<div align="center">
+<a href="https://discord.gg/https://discord.gg/xJfpaCfMfK">
+		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /> 
+	</a> 
+  <a href="https://linkedin.com/in/pradip-sable07">
+		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
+	</a> <a href="https://medium.com/@@pradipsable07">
+		<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /> 
+	</a> <a href="https://twitter.com/PradipSable07">
+		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /> 
+	</a> 
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xJfpaCfMfK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-sable07)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@pradipsable07)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PradipSable07)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=PradipSable07&limit=5&theme=nord&combine_all_yearly_contributions=true&hide_border=true&align_content=center)
-
----
+## 🔝 Top Contributed Repo
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=PradipSable07&limit=5&theme=nord&combine_all_yearly_contributions=true&hide_border=true&align_content=center" /> 
+</div>
