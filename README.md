@@ -40,13 +40,13 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=PradipSable07&theme=nord&hide_border=true&include_all_commits=false&count_private=false" width="48%" height="55%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipSable07&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" height="50%">
 </div>
 </br>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=750&height=750">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradipSable07&theme=nord&hide_border=true&width=750&height=750">
 </div>
 ## 🏆 GitHub Trophies
 
