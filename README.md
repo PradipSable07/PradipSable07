@@ -1,6 +1,6 @@
 <img src="./assets/profile-header.svg"></img>
-<a href="https://linktr.ee/pss.tech"> Click here to connect 🤝</a>
-
+``<a href="https://linktr.ee/pss.tech"> Click here to connect 🤝</a>
+``
 ```plaintext
   const greet = () => {
     console.log("Welcome to my GitHub profile!");
