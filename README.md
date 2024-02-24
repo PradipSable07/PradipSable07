@@ -10,11 +10,6 @@
 
   greet();
 ```
-
- <a href="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0" >
-            <img src="https://visitcount.itsvg.in/api?id=PradipSable07&icon=8&color=0" alt="Visit Count">
-</a>
-
 # 🚀 My Tech Stack:
 
 <div align="center">
